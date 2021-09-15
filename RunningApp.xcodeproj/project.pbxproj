@@ -19,6 +19,7 @@
 		B6A4154226F24BEB00BE2AF1 /* Orders.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A4154126F24BEB00BE2AF1 /* Orders.swift */; };
 		B6A4154426F24C0200BE2AF1 /* WishList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A4154326F24C0200BE2AF1 /* WishList.swift */; };
 		B6A4154626F2570F00BE2AF1 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6A4154526F2570F00BE2AF1 /* Launch Screen.storyboard */; };
+		B6A4154826F267EE00BE2AF1 /* ProfileVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A4154726F267EE00BE2AF1 /* ProfileVIew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		B6A4154126F24BEB00BE2AF1 /* Orders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orders.swift; sourceTree = "<group>"; };
 		B6A4154326F24C0200BE2AF1 /* WishList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishList.swift; sourceTree = "<group>"; };
 		B6A4154526F2570F00BE2AF1 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		B6A4154726F267EE00BE2AF1 /* ProfileVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVIew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				B6A4153726F24B1E00BE2AF1 /* SideMenu.swift */,
 				B6A4153926F24B3B00BE2AF1 /* MenuButton.swift */,
 				B6A4153B26F24B5800BE2AF1 /* HomeView.swift */,
+				B6A4154726F267EE00BE2AF1 /* ProfileVIew.swift */,
 				B6A4153D26F24B7300BE2AF1 /* StopWatchManager.swift */,
 				B6A4154126F24BEB00BE2AF1 /* Orders.swift */,
 				B6A4154326F24C0200BE2AF1 /* WishList.swift */,
@@ -163,6 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6A4154826F267EE00BE2AF1 /* ProfileVIew.swift in Sources */,
 				B6A4152926F24AA100BE2AF1 /* ContentView.swift in Sources */,
 				B6A4152726F24AA100BE2AF1 /* RunningAppApp.swift in Sources */,
 				B6A4153A26F24B3B00BE2AF1 /* MenuButton.swift in Sources */,
